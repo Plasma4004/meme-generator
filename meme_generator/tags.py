@@ -64,6 +64,16 @@ class MemeTags:
     takina = {"井之上泷奈"} | lycoris_recoil
     walnut = {"胡桃"} | lycoris_recoil
 
+    # 别当欧尼酱了
+    onimai = {"别当欧尼酱了"}
+
+    mahiro = {"绪山真寻"} | onimai
+
+    # 幸运星
+    lucky_star = {"幸运星"}
+
+    konata = {"泉此方"} | lucky_star
+
     # 猫和老鼠
     tom_and_jerry = {"猫和老鼠"}
 
